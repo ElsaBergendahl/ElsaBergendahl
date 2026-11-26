@@ -9,12 +9,12 @@ I enjoy bringing people together, asking questions, exploring new ideas and find
 
 This portfolio is where I share what I’m learning, what I’m creating and how I approach different challenges along the way. Hopefully, as my portfolio grows, you’ll also be able to see how my projects evolve and reflect my learning journey.
 
-## Areas of interest 
+## What sparks my professional curiosity
 
-- People Analytics
-- Business Intelligence
-- Data Visualization
+- Data Analytics & Visualisation
 - Business Development
+- Organisational Development
+- Human Behaviour
 
 ## Tools & Technologies
 
