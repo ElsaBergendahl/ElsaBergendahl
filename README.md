@@ -1,4 +1,4 @@
-[![My profile banner](banner.png?v=2)](https://www.linkedin.com/in/elsa-bergendahl-aa730227b)
+[![My profile banner](banner-v2.png)](https://www.linkedin.com/in/elsa-bergendahl-aa730227b)
 ## A little about me
 
 I’ve always had a genuine interest in people, how organisations work and how things can be done better. That curiosity led me to study Human Resources and, eventually, Business Intelligence.
