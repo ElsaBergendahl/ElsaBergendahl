@@ -30,6 +30,8 @@ Power Automate
 AI & Generative AI
 Claude · ChatGPT · Gemini
 
+![Power BI](https://img.shields.io/badge/Power%20BI-C8B582?style=flat&logo=powerbi&logoColor=20364F)
+
 HR Systems
 Sympa · Flex HRM · Miramis
 
