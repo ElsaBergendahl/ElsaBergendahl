@@ -1,9 +1,4 @@
-# Hi, I'm Elsa! 👋
-
-**HR Graduate & BI Student**
-
-Connecting people, data and business.
-
+[![My profile banner](banner.png)](https://www.linkedin.com/in/elsa-bergendahl-aa730227b)
 ## About me
 
 With an academic background in Human Resources and ongoing studies in Business Intelligence at Nackademin, I am passionate about combining people and data to support informed business decisions.
