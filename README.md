@@ -16,10 +16,25 @@ This portfolio is where I share what I’m learning, what I’m creating and how
 - Organisational Development
 - Human Behaviour
 
-## Tools & Technologies
+## My ever-growing toolbox
 
-- Power BI
-- Power Query
-- DAX
-- Excel
-- SPSS
+Data & Analytics
+Power BI · Power Query · Excel · SPSS Statistics
+
+Languages & Coding
+Python · SQL · DAX · M
+
+Automation & Process Development
+Power Automate
+
+AI & Generative AI
+Claude · ChatGPT · Gemini
+
+HR Systems
+Sympa · Flex HRM · Miramis
+
+Design & Visual Communication
+Canva · PowerPoint · Adobe Creative Cloud
+
+Collaboration & Productivity
+GitHub · Microsoft 365 · Google Workspace · Slack
