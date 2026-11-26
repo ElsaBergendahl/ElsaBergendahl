@@ -11,6 +11,13 @@ This portfolio is where I share what I’m learning, what I’m creating and how
 
 ## What sparks my professional curiosity
 
+- Data Analytics & Visualisation
+- Business Development
+- Organisational Development
+- Human Behaviour
+
+## My ever-growing toolbox
+
 **Data & Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-E8CDD5?style=flat-square)
