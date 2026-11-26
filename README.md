@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Elsa! 👋
 
-<!--
-**ElsaBergendahl/ElsaBergendahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HR Graduate & BI Student**
 
-Here are some ideas to get you started:
+Connecting people, data and business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+With an academic background in Human Resources and ongoing studies in Business Intelligence at Nackademin, I am passionate about combining people and data to support informed business decisions.
+
+## Areas of interest
+
+- People Analytics
+- Business Intelligence
+- Data Visualization
+- Business Development
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+- SPSS
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/elsa-bergendahl-aa730227b)
